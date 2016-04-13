@@ -1,0 +1,22 @@
+{
+  "name": "pop3-server",
+  "version": "0.0.9",
+  "description": "A fully function POP3 which implement RFC 1939",
+  "author": "Viau Thomas <viauthomas@gmail.com>",
+  "scripts": {
+    "start": "node pop3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suicid3B0y/pop3.git"
+  },
+  "dependencies": {
+    "fs": "*",
+    "net": "*",
+    "uuid": "*",
+    "md5-file": "*",
+    "MD5": "*",
+    "process": "*"
+  },
+  "license": "MIT"
+}

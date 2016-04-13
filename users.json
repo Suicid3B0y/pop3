@@ -1,3 +1,4 @@
 {
-  "test":"test"
+  "test":{"pass":"test", "locked":false, "secret":"yoloxd"},
+  "tom":{"pass":"isol", "locked":false, "secret":"thomas"}
 }
